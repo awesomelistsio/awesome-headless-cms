@@ -27,6 +27,7 @@ Headless CMS separates content management from the presentation layer, making it
 - [ButterCMS](https://buttercms.com/) – Developer-friendly API-based CMS.
 - [Agility CMS](https://agilitycms.com/) – Enterprise-focused with great Next.js support.
 - [Hygraph (GraphCMS)](https://hygraph.com/) – GraphQL-native headless CMS.
+- [Gitana (Cloud CMS)](https://gitana.io/) - Enterprise Cloud Content Management.
 
 ## Open Source CMS
 
